@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Фатима  Хастинова](https://up.htmlacademy.ru/htmlcss/36/user/2298821).
-* Наставник: `Неизвестно`.
+* Наставник: `Анна Рус` (https://htmlacademy.ru/profile/vanillawulf).
 
 ---
 
