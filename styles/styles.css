@@ -19,7 +19,7 @@ body {
   font-size: 18px;
   line-height: 21px;
   color: #333333;
-  background-color:#FFFFFF;
+  background-color: #FFFFFF;
 }
 
 .page-header {
@@ -43,7 +43,7 @@ body {
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
-  color:#FFFFFF;
+  color: #FFFFFF;
   background-color: #756157;
 }
 
@@ -80,26 +80,17 @@ body {
   text-align: center;
 }
 
-.advantages-item-1 {
+.advantages-item-blue-bkg {
   background-color: #82B3D3;
   color: #FFFFFF;
 }
 
-.advantages-item-2 {
+.advantages-item-lightblue-bkg {
   background-color: #83B3D31F;
 }
 
-.advantages-item-3 {
+.advantages-item-grey-bkg {
   background-color: #83B3D333;
-}
-
-.advantages-item-4 {
-  background-color: #83B3D31F;
-}
-
-.advantages-item-5 {
-  background-color: #82B3D3;
-  color: #FFFFFF;
 }
 
 .advantages-item-house {
@@ -120,7 +111,7 @@ body {
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
-  color:#FFFFFF;
+  color: #FFFFFF;
   background-color: #756157;
 }
 
@@ -130,14 +121,14 @@ line-height: 36px;
 text-align: center;
 text-decoration: none;
 text-transform: uppercase;
-color:#FFFFFF;
+color: #FFFFFF;
 background-color: #82B3D3;
 }
 
 .page-footer{
-background-color:#FFFFFF;
+background-color: #FFFFFF;
 text-transform: none;
-color:#000000 ;
+color: #000000 ;
 }
 
 .inner-header {
@@ -250,7 +241,7 @@ color:#000000 ;
   line-height: 20px;
   text-align: center;
   text-transform: uppercase;
-  background-color:#F2F2F2;
+  background-color: #F2F2F2;
 }
 
 .pagination {
